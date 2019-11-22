@@ -85,7 +85,7 @@
 <distributionManagement>
   <snapshotRepository>
     <id>artifactory</id>
-        <url>http://13.235.81.32:8081/artifactory/SampleDemo</url>
+        <url>http://13.127.220.60:8081/artifactory/SampleDemo</url>
   </snapshotRepository>
 </distributionManagement>
 	<build>
