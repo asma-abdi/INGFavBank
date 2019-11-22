@@ -73,7 +73,7 @@
 		<dependency>
 			<groupId>org.codehaus.mojo</groupId>
 			<artifactId>sonar-maven-plugin</artifactId>
-			<version>3.6.0.1398</version>
+			<version>3.7.0.1746</version>
 			<type>pom</type>
 		</dependency>
 		<dependency>
@@ -85,7 +85,6 @@
 		<distributionManagement>
 		    <snapshotRepository>
 			<id>artifactory</id>
-			<name>ip-172-31-11-152.ap-south-1.compute.internal-snapshots</name>
 			<url>http://13.127.220.60:8081/artifactory/libs-snapshot-local</url>
 		    </snapshotRepository>
 		</distributionManagement>
